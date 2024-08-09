@@ -1,6 +1,6 @@
 <?php
 
-namespace Core;
+namespace Core\Abstractions;
 
 use EventSauce\EventSourcing\AggregateRootId as EventSauceAggregateRootId;
 use Ramsey\Uuid\Uuid;
